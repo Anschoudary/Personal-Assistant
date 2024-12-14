@@ -1,0 +1,6 @@
+speechrecognition
+sounddevice
+google-generativeai
+gtts
+soundfile
+playsound
